@@ -3,6 +3,6 @@
     "readme": "Second release",
     "update": "https://github.com/weitemi/sunlong/releases/download/v1.3.0/app-1.3.0-ia32-win.zip",
     "install": "https://github.com/weitemi/sunlong/releases/download/v1.3.0/app-setup-1.3.0.exe",
-    "version": "1.3.0"
+    "version": "1.4.0"
   }
 }
